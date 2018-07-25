@@ -1,16 +1,5 @@
-
-#score {
-	background-color: red;
-	color:white;
-	min-width:40px;
-	display: inline-block;
-	text-align: center;
-	border-radius: 10px;
-	padding: 5px 10px;
-}
-
-table,
-tr,
-td {
-	padding:5px;
+p {
+	margin-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
 }
